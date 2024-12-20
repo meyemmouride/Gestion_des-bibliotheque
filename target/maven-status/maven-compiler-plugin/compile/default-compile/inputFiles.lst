@@ -1,0 +1,11 @@
+/home/Meryem/Desktop/jenkins/GestionBibliotheque/src/main/java/com/library/service/BookService.java
+/home/Meryem/Desktop/jenkins/GestionBibliotheque/src/main/java/com/library/model/Book.java
+/home/Meryem/Desktop/jenkins/GestionBibliotheque/src/main/java/com/library/model/Borrow.java
+/home/Meryem/Desktop/jenkins/GestionBibliotheque/src/main/java/com/library/dao/BorrowDAO.java
+/home/Meryem/Desktop/jenkins/GestionBibliotheque/src/main/java/com/library/dao/BookDAO.java
+/home/Meryem/Desktop/jenkins/GestionBibliotheque/src/main/java/com/library/service/BorrowService.java
+/home/Meryem/Desktop/jenkins/GestionBibliotheque/src/main/java/com/library/Main.java
+/home/Meryem/Desktop/jenkins/GestionBibliotheque/src/main/java/com/library/service/StudentService.java
+/home/Meryem/Desktop/jenkins/GestionBibliotheque/src/main/java/com/library/model/Student.java
+/home/Meryem/Desktop/jenkins/GestionBibliotheque/src/main/java/com/library/dao/StudentDAO.java
+/home/Meryem/Desktop/jenkins/GestionBibliotheque/src/main/java/com/library/util/DbConnection.java
